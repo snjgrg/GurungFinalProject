@@ -1,0 +1,19 @@
+Ram,parsad,,male,101
+Sanjay,Gurung ,1994-12-01,Male,102
+Stone,gurung,1990-12-1,Male,109
+Rihana,Panday,1890-11-1,Female,104
+Sanjay,Gurung,1994-12-01,Male,110
+ning,kanchi,1990-12-1,Female,111
+kabita ,gurung,1890-11-1,Female,112
+Shanti,lama,1892-11-1,Female,113
+karma,tshering,1780-1-1,Male,114
+lama,nani,1292-12-1,Female,115
+sita,devi,1922-12-2,Female,116
+daniel,clarkston,1890-2-11,Male,117
+akoj,safari,1929-12-1,Male,118
+pari,nepali,1992-2-2,Female,119
+aaa,bbb,ccc,Male,120
+ddd,eee,fff,Female,121
+ggg,hhh,iii,Male,122
+kkk,lll,mmmm,Female,123
+nnn,ooo,ppp,Male,124
